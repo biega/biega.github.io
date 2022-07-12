@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>Attention</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta name="description" content="" />
+  <link rel="stylesheet" href="biega.github.io/global.css">
+</head>
+
+<body>
+
+  <h1>Attention</h1>
+  <h2>Our ability to focus is changing - and fast</h2>
+  
+  <p>This is a test paragraph to see if my CSS file has connected properly. This text should be blue.</p>
+
+
+</body>
+
+</html>
