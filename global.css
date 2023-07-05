@@ -1,6 +1,9 @@
 * { 
 	font-family: "Monaco", sans-serif;
 	color: #485551;
-	font-size: 1em;
 	margin: 0.7em;
+}
+
+p {
+	font-size: 1em;
 }
