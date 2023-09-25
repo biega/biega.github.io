@@ -2,12 +2,12 @@
 	font-family: "Monaco", sans-serif;
 	color: #485551;
 	margin: 0.7em;
-	margin-right: 4em;
 	background: #dbdbbd;
 
 }
 
 p {
 	font-size: 1.05em;
-	border-style: dotted;
+	margin: 1em;
+	margin-right: 5em;
 }
