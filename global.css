@@ -2,10 +2,9 @@
 	font-family: "Monaco", sans-serif;
 	color: #485551;
 	margin: 0.7em;
-	width: 100vw;
 }
 
 p {
-	font-size: 1em;
+	font-size: 1.05em;
 	border-style: dotted;
 }
