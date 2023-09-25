@@ -2,7 +2,8 @@
 	font-family: "Monaco", sans-serif;
 	color: #485551;
 	margin: 0.7em;
-	margin-right: 40vw;
+	padding-right: 40vw;
+	width: 100vw
 }
 
 p {
